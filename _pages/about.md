@@ -15,5 +15,5 @@ I am a postdoc researcher at the University of Nottingham, working on modificati
 
 **General Relativity**
 
-$x+2$
+$S_{\text{EH}}= \frac{1}{2\kappa}\int{d^4x\,\sqrt{-g}\,R}$
 
