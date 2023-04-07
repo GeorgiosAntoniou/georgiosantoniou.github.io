@@ -15,5 +15,9 @@ I am a postdoc researcher at the University of Nottingham, working on modificati
 
 **General Relativity**
 
-$$S_{\text{EH}}= \frac{1}{2\kappa}\int{d^4x\,\sqrt{-g}\,R}$$
+$$
+\begin{equation*}
+S_{\text{EH}}= \frac{1}{2\kappa}\int{d^4x\,\sqrt{-g}\,R}
+\end{equation*}
+$$
 
