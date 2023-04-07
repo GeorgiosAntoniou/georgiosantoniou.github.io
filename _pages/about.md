@@ -13,11 +13,12 @@ Welcome to my site
 I am a postdoc researcher at the University of Nottingham, working on modifications of gravity. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
 
 
-**General Relativity**
+**Interests - Keywords**
+Strong gravity, modified gravity, cosmology, compact objects, gravitational waves, quasinormal modes, well-posedness.
 
 $$
 \begin{equation*}
-S_{\text{EH}}= \frac{1}{2\kappa}\int{d^4x\,\sqrt{-g}\,R}
+G_{\mu\nu}+\Lambda g_{\mu\nu}=\ldots
 \end{equation*}
 $$
 
