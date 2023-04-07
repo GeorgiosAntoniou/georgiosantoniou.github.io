@@ -1,0 +1,5 @@
+# _pages gave the main .md files
+# _config.yml has the basic information for the website (name, links etc.)
+# _includes/author-profile.html go there to make links open to new pages
+# _data/navigation.yml the structure (tab etc.) for the website
+# _sass/_variables.scss change colors
