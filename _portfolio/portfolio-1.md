@@ -1,7 +1,7 @@
 ---
 title: "Black holes part I: the Schwarzschild solution"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "Introduction to the spherically symmetric and static black hole solutions of General Relativity"
+collection: Videos
 ---
 
 **Black holes part I: the Schwarzschild solution**
