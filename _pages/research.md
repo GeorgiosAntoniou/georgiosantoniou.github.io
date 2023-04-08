@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header: 
+header: "header"
 ---
 
 I work on gravitational physics and all.
