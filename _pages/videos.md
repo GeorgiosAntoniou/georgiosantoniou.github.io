@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Videos"
-permalink: /publications/
+permalink: /videos/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% assign ordered_pages = site.publications | sort:"order_number" %}
+{% assign ordered_pages = site.videos | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
