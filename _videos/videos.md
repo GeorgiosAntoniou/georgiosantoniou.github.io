@@ -1,20 +1,7 @@
-**Black holes part I: the Schwarzschild solution**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IVnOOswguFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
-<br/>
-<br/>
-
-**The summation $1+2+3+\ldots$ (and why it does not equal $-1/12$)**
-<iframe width="320" height="240" src="https://www.youtube.com/embed/pcEHv5fg6H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br/>
-<br/>
-
-**The age of the universe (and why it is not infinite)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RgVtgIp9peg" title="YouTube video player" frameborder="200" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br/>
-<br/>
-
-**Gravitational waves (and the future pf physics)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_fO5kNvwNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
