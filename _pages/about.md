@@ -33,7 +33,7 @@ $$
 
 <br/><br/>
 **The age of the universe (and why it is not infinite)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RgVtgIp9peg" title="YouTube video player" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgVtgIp9peg&rel=0" title="YouTube video player" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Gravitational waves (and the future pf physics)**
