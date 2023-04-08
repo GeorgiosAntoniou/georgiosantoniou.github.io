@@ -5,10 +5,12 @@ permalink: /videos/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
-{% assign ordered_pages = site.videos | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+{% for post in site.videos reversed %}
+  {% include archive-single.html %}
 {% endfor %}
