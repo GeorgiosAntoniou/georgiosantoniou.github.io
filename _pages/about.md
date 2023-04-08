@@ -14,7 +14,7 @@ I am a postdoc researcher at the University of Nottingham, working on modificati
 
 
 **Interests - Keywords:**
-Strong gravity, modified gravity, cosmology, compact objects, gravitational waves, quasinormal modes, well-posedness.
+Strong gravity, modified gravity, cosmology, compact objects, gravitational waves, quasinormal modes, well-posedness
 
 $$
 \begin{equation*}
