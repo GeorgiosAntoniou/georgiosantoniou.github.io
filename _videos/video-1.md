@@ -5,7 +5,7 @@ collection: videos
 excerpt: "
 <style>
 img {
-  border-radius: 25px;
+  border-radius: 20px;
 }
 </style>
 <img src='/images/videos/Thumbnail_1.jpg' alt='' width='230'>"
