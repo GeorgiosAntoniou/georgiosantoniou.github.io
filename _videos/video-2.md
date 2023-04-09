@@ -1,8 +1,8 @@
 ---
-title: "The age of the universe (and why it is not infinite)"
+title: "The age of the universe and why it is not infinite and more and more"
 layout: single-portfolio
 collection: videos
-excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width=210>"
+excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width=220>"
 order_number: 20
 header: 
   og_image: "videos/Thumbnail_2.jpg"

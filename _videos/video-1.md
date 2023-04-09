@@ -1,8 +1,8 @@
 ---
-title: "Gravitational waves (and the future of physics)"
+title: "Gravitational waves and the future of physics and more and more"
 layout: single-portfolio
 collection: videos
-excerpt: "<img src='/images/videos/Thumbnail_1.jpg' alt='' width=250>"
+excerpt: "<img src='/images/videos/Thumbnail_1.jpg' alt='' width=230>"
 order_number: 10
 header: 
   og_image: "videos/Thumbnail_1.jpg"
