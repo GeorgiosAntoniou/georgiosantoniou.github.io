@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Videos for fun"
-permalink: /videos/
+permalink: /publications/
 author_profile: true
 ---
 
