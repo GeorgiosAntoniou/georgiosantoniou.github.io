@@ -3,6 +3,8 @@ layout: archive
 title: "Videos"
 permalink: /videos/
 author_profile: true
+header:
+  og_image: "videos/Thumbnail_1.jpg"
 ---
 
 This is a collection of videos.
