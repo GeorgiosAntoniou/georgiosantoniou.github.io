@@ -1,8 +1,8 @@
 ---
-title: "The summation 1+2+... and why it is not -1/12 and more and more"
+title: "1+2+...=-1/12 ?"
 layout: single-portfolio
 collection: videos
-excerpt: "<img src='/images/videos/Thumbnail_3.jpg' alt='' width=250>"
+excerpt: "<img src='/images/videos/Thumbnail_3.jpg' alt='' width=220>"
 order_number: 30
 header: 
   og_image: "videos/Thumbnail_3.jpg"
