@@ -1,3 +1,9 @@
+<style>
+img {
+  border-radius: 10px;
+}
+</style>
+
 ---
 layout: archive
 title: "Videos"
