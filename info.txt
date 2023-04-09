@@ -1,5 +1,7 @@
 # _pages gave the main .md files
-# _config.yml has the basic information for the website (name, links etc.)
+# config.yml has the basic information for the website (name, links etc.)
 # _includes/author-profile.html go there to make links open to new pages
 # _data/navigation.yml the structure (tab etc.) for the website
 # _sass/_variables.scss change colors
+# If you want to add a new page, you need to change the file navigation.yml, config.yml, add the relative _pages file, and create
+a folder with the same name including the .md files
