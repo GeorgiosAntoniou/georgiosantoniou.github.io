@@ -1,3 +1,9 @@
+<style>
+img {
+  border-radius: 5%;
+}
+</style>
+
 ---
 title: "Gravitational waves"
 layout: single-portfolio
