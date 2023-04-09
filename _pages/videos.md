@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Videos"
+title: "Videos for fun"
 permalink: /videos/
 author_profile: true
 ---
