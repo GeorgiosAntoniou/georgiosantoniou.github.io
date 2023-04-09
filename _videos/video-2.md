@@ -1,9 +1,8 @@
 ---
 title: "The age of the universe"
-layout: single-portfolio
 collection: videos
 excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width='230'>"
 order_number: 2
 ---
 
-This paper is about the number 1. The number 2 is left for future work.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgVtgIp9peg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
