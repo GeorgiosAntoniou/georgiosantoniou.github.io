@@ -1,5 +1,5 @@
 ---
-title: "The age of the universe"
+title: "The age of the universe (and why it is not infinite)"
 layout: single-portfolio
 collection: videos
 excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width=210>"

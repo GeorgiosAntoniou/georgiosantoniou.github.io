@@ -1,5 +1,5 @@
 ---
-title: "The summation 1+2+3+..."
+title: "The summation 1+2+3+... (and why it is not -1/12)"
 layout: single-portfolio
 collection: videos
 excerpt: "<img src='/images/videos/Thumbnail_3.jpg' alt='' width=200>"
