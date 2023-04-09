@@ -2,7 +2,7 @@
 title: "The age of the universe"
 layout: single-portfolio
 collection: videos
-excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width=230>"
+excerpt: "<img src='/images/videos/Thumbnail_2.jpg' alt='' width='230'>"
 order_number: 2
 header: 
   og_image: "videos/Thumbnail_2.jpg"
