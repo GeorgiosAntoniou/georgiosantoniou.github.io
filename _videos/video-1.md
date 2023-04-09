@@ -2,9 +2,10 @@
 title: "Gravitational waves"
 layout: single-portfolio
 collection: videos
-excerpt: "<style>
+excerpt: "
+<style>
 img {
-  border-radius: 5%;
+  border-radius: 10px;
 }
 </style>
 <img src='/images/videos/Thumbnail_1.jpg' alt='' width='230'>"
