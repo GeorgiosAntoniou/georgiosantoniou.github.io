@@ -2,13 +2,7 @@
 title: "Gravitational waves"
 layout: single-portfolio
 collection: videos
-excerpt: "
-<style>
-img {
-  border-radius: 20px;
-}
-</style>
-<img src='/images/videos/Thumbnail_1.jpg' alt='' width='230'>"
+excerpt: "<img src='/images/videos/Thumbnail_1.jpg' alt='' width='230'>"
 order_number: 1
 header: 
   og_image: "videos/Thumbnail_1.jpg"
