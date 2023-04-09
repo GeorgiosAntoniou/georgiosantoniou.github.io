@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Videos for fun"
-permalink: /publications/
+permalink: /videos/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.videos reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
