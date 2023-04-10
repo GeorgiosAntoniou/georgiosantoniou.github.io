@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/CV.pdf" width="100%" height="750" frameborder="yes" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV.pdf" width="100%" height="750" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
 
