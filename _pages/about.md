@@ -21,3 +21,9 @@ $$
 G_{\mu\nu}+\Lambda g_{\mu\nu}=\ldots
 \end{equation*}
 $$
+
+Education
+------
+- PhD University of Nottingham
+- MS University of Minnesota
+- BSc University of Ioannina
