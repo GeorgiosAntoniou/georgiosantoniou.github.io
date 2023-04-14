@@ -83,12 +83,12 @@ author:
   name             : "Georgios Antoniou"
   avatar           : "profile.png"
   bio              : "Postdoc Researcher in Gravitational Physics"
-  location         : #"Nottingham, UK"
-  employer         : "University of Nottingham, UK"
-  pubmed           : 
+  location         :
+  employer         : "University of Nottingham"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qRCAJWMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,21 +100,22 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-5974-320X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  
   inspire          : "https://inspirehep.net/authors/1639144?ui-citation-summary=true"
 
 
