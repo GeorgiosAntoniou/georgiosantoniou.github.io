@@ -26,7 +26,7 @@ Academic Positions
 ------
 - ***Postdoctoral fellow***, University of Nottingham
 
-<span style="color:blue">some *Education* text</span>
+<span style="color:powderblue">Education text</span>
 ------
 - Doctor of Philosophy, University of Nottingham
 - MS University of Minnesota
