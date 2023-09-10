@@ -10,7 +10,7 @@ redirect_from:
 
 
 ------
-I am a postdoc researcher at the University of Nottingham, working on modifications of gravity. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
+I am a postdoctoral researcher at the University of Nottingham, working on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
 
 
 **Interests - Keywords:**
