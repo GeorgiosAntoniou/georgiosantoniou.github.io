@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site
+
 ------
 I am a postdoc researcher at the University of Nottingham, working on modifications of gravity. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
 
@@ -18,7 +18,7 @@ Strong gravity, modified gravity, cosmology, compact objects, gravitational wave
 
 $$
 \begin{equation*}
-G_{\mu\nu}+\Lambda g_{\mu\nu}=\ldots
+G_{\mu\nu}+\Lambda g_{\mu\nu}=T_{\mu\nu}\ldots
 \end{equation*}
 $$
 
@@ -28,6 +28,6 @@ Academic Positions
 
 Education
 ------
-- PhD University of Nottingham
+- Doctor of Philosophy, University of Nottingham
 - MS University of Minnesota
 - BSc University of Ioannina
