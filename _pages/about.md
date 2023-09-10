@@ -22,6 +22,10 @@ G_{\mu\nu}+\Lambda g_{\mu\nu}=\ldots
 \end{equation*}
 $$
 
+Academic Positions
+------
+- Postdoctoral fellow, University of Nottingham
+
 Education
 ------
 - PhD University of Nottingham
