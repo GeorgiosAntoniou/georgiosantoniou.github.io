@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-You can also download a PDF copy of my CV [here](/files/CV.pdf).
+You may also download a PDF copy of my CV [here](/files/CV.pdf).
