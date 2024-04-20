@@ -10,7 +10,7 @@ redirect_from:
 
 
 ------
-I am a postdoctoral researcher at INFN Rome and affiliated with the Sapienza University of Rome, where I work on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
+I am a postdoctoral researcher at INFN Rome and the Sapienza University of Rome, where I work on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
 
 
 **Interests - Keywords:**
