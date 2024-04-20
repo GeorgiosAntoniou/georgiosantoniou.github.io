@@ -10,7 +10,7 @@ redirect_from:
 
 
 ------
-I am a postdoctoral researcher at the University of Nottingham, working on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
+I am a postdoctoral researcher at INFN Rome and affiliated with the Sapienza University of Rome, where I work on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
 
 
 **Interests - Keywords:**
@@ -24,10 +24,11 @@ $$
 
 Academic Positions
 ------
+- ***Postdoctoral fellow***, INFN Rome and Sapienza University of Rome
 - ***Postdoctoral fellow***, University of Nottingham
 
 <span style="color:powderblue">Education text</span>
 ------
-- Doctor of Philosophy, University of Nottingham
-- MS University of Minnesota
-- BSc University of Ioannina
+- ***PhD***, University of Nottingham
+- ***MS*** University of Minnesota
+- ***BSc*** University of Ioannina
