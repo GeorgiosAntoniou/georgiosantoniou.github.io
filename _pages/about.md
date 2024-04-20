@@ -31,4 +31,4 @@ Academic Positions
 ------
 - ***PhD***, University of Nottingham
 - ***MS*** University of Minnesota
-- ***BSc*** University of Ioannina
+- **BSc** University of Ioannina
