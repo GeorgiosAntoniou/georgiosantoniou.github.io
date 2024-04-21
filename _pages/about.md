@@ -34,3 +34,11 @@ Education
 <i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota
 
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina
+
+
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
