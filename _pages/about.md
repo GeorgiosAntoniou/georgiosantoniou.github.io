@@ -29,18 +29,6 @@ Academic Positions
 
 Education
 ------
-<i class="fas fa-fw fa-graduation-cap"></i> **Doctor of Philosophy (PhD)**, University of Nottingham
-
-<i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota
-
-<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina
-
-
-ul {
-  list-style: none;
-}
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
+- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Doctor of Philosophy (PhD)**, University of Nottingham </span>
+- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota </span>
+- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina </span>
