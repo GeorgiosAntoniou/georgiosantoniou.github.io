@@ -34,6 +34,9 @@ Education
 - <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina </span>
 
 
-- <span style="list-style-type: none;">Item 1</span>
-- <span style="list-style-type: none;">Item 2</span>
-- <span style="list-style-type: none;">Item 3</span>
+<style>
+.no-bullet {
+    list-style-type: none;
+    padding-left: 0; /* optional: remove default left padding */
+}
+</style>
