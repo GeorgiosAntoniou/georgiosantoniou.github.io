@@ -36,7 +36,9 @@ Education
 <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina
 
 
-
+ul {
+  list-style: none;
+}
 <ul>
   <li>Item 1</li>
   <li>Item 2</li>
