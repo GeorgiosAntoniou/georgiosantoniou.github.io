@@ -31,6 +31,6 @@ Education
 ------
 <i class="fas fa-fw fa-graduation-cap"></i> **Doctor of Philosophy (PhD)**, University of Nottingham
 
-<i class="fas fa-fw fa-graduation-cap"></i> **MS** University of Minnesota
+<i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota
 
-<i class="fas fa-fw fa-graduation-cap"> **BSc** University of Ioannina</i>
+<i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina
