@@ -29,6 +29,6 @@ Academic Positions
 
 Education
 ------
-- <i class="ai ai-inspire ai-fw"></i> ***PhD***, University of Nottingham
-- ***MS*** University of Minnesota
-- ***BSc*** University of Ioannina
+<i class="fas fa-fw fa-graduation-cap"></i> ***PhD***, University of Nottingham
+<i class="fas fa-fw fa-graduation-cap"></i> ***MS*** University of Minnesota
+<i class="fas fa-fw fa-graduation-cap"></i> ***BSc*** University of Ioannina
