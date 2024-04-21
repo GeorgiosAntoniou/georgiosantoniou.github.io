@@ -27,7 +27,7 @@ Academic Positions
 - ***Postdoctoral fellow***, INFN Rome and Sapienza University of Rome
 - ***Postdoctoral fellow***, University of Nottingham
 
-<span style="color:blue">Education</span>
+<span style="color:#0B0045">Education</span>
 ------
 - ***PhD***, University of Nottingham
 - ***MS*** University of Minnesota
