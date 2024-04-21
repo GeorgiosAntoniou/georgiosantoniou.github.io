@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.no-bullet {
+    list-style-type: none;
+    padding-left: 0; /* optional: remove default left padding */
+}
+</style>
 
 ------
 I am a postdoctoral researcher at INFN Rome and the Sapienza University of Rome, where I work on strong gravitational physics. Considering our relatively recent observational access to strong gravitational processes, the theoretical study of alternatives to General Relativity acquires particular interest.
@@ -34,9 +40,4 @@ Education
 - <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina </span>
 
 
-<style>
-.no-bullet {
-    list-style-type: none;
-    padding-left: 0; /* optional: remove default left padding */
-}
-</style>
+
