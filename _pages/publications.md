@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This is a collection of videos. ok
+[Working Papers](#working) &nbsp; &nbsp; &nbsp; &nbsp; [Conference Proceedings](#conf) &nbsp; &nbsp; &nbsp; &nbsp; [Journal Publications](#journal)
 
 
 {% if author.googlescholar %}
