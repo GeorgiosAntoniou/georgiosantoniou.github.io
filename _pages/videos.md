@@ -7,7 +7,7 @@ header:
   og_image: "videos/Thumbnail_1.jpg"
 ---
 
-This is a collection of videos.
+This is a collection of videos. ok
 
 
 <nbsp>
