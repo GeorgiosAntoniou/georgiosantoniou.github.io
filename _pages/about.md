@@ -24,8 +24,8 @@ $$
 
 Academic Positions
 ------
-- **Postdoctoral fellow**, INFN Rome and Sapienza University of Rome
-- **Postdoctoral fellow**, University of Nottingham
+- <i class="fas fa-fw fa-University"></i> **Postdoctoral fellow**, INFN Rome and Sapienza University of Rome
+- <i class="fas fa-fw fa-graduation-cap"></i> **Postdoctoral fellow**, University of Nottingham
 
 Education
 ------
