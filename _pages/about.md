@@ -25,13 +25,13 @@ $$
 Academic Positions
 ------
 - <i class="fas fa-fw fa-university"></i> **Postdoctoral fellow**, INFN Rome and Sapienza University of Rome
-- <i class="fas fa-fw fa-graduation-cap"></i> **Postdoctoral fellow**, University of Nottingham
+- <i class="fas fa-fw fa-univesrity"></i> **Postdoctoral fellow**, University of Nottingham
 
 Education
 ------
-- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Doctor of Philosophy (PhD)**, University of Nottingham </span>
-- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota </span>
-- <span style="list-style-type: none;"><i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina </span>
+- <i class="fas fa-fw fa-graduation-cap"></i> **Doctor of Philosophy (PhD)**, University of Nottingham
+- <i class="fas fa-fw fa-graduation-cap"></i> **Master of Science (MS)**, University of Minnesota
+- <i class="fas fa-fw fa-graduation-cap"></i> **Bachelor of Science (BSc)**, University of Ioannina
 
 
 
