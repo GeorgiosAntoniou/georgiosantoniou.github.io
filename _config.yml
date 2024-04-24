@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   inspire          : "https://inspirehep.net/authors/1639144?ui-citation-summary=true"
-  arXiv            : "https://arxiv.org/search/gr-qc?searchtype=author&query=Antoniou,+G"
+  arxiv            : "https://arxiv.org/search/gr-qc?searchtype=author&query=Antoniou,+G"
 
 # Reading Files
 include:
