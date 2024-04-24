@@ -37,11 +37,11 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-2x"></i> ArXiv</a></li>
       {% endif %}
-      {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-github fa-2x" aria-hidden="true"></i> Github</a></li>
-      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}" target="_blank" rel="noopener"><i class="ai ai-orcid ai-fw fa-2x"></i> ORCID</a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-github fa-2x" aria-hidden="true"></i> Github</a></li>
       {% endif %}
 
       {% if author.employer %}
