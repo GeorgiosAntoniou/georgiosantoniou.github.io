@@ -84,7 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc Researcher in Gravitational Physics"
   location         : "INFN Rome"
-  inspire          : "https://inspirehep.net/authors/1639144?ui-citation-summary=true"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qRCAJWMAAAAJ&hl=en"
@@ -116,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  inspire          : "https://inspirehep.net/authors/1639144?ui-citation-summary=true"
 
 # Reading Files
 include:
