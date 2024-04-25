@@ -11,7 +11,7 @@ paperurl: 'https://arxiv.org/abs/2404.02479'
 
 Gravitational wave observations can test the validity of General Relativity (GR) in the strong field regime. Certain classes of scalar-tensor theories indeed predict that compact objects can exhibit significant deviations from their GR counterparts. Here we explore the quasinormal modes of axial perturbations in spherically symmetric black holes in three such classes: (i) dilatonic black holes with an additional scalar-Ricci coupling (EdRGB), (ii) spontaneously scalarized black holes (EsRGB) with a quadratic coupling to the Gauss-Bonnet invariant and the Ricci scalar, (iii) spontaneously scalarized black holes with a quadratic and a quartic coupling to the Gauss-Bonnet invariant.
 
-<img src="https://inspirehep.net/files/a03c307de92a843590b75383600cebac" alt="Description of the image"> <img src="https://inspirehep.net/files/a03c307de92a843590b75383600cebac" alt="Description of the image">
+<img src="https://inspirehep.net/files/a03c307de92a843590b75383600cebac" width="200"> <img src="https://inspirehep.net/files/719e85a6e2cff2b0ba5dee85de0d4d30" width="300">
 
 
 
