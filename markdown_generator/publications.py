@@ -34,8 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
+publications = pd.read_csv("publications.tsv", sep="\t", header=0, index_col=False)
 
 
 # ## Escape special characters
@@ -64,6 +63,13 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
+    print(item.pub_date)
+    print(item.author_list)
+    print(item.title)
+    # print(item.excerpt)
+    print(item.venue)
+    print(item.url_slug)
+
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
@@ -76,12 +82,16 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
+    md += "\nshort_text: '" + item.short_text + "'"
+    
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
+    
+    md += "\nauthor_list: '" + item.author_list + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
@@ -92,13 +102,13 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    # if len(str(item.paper_url)) > 5:
+        # md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
