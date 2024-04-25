@@ -52,13 +52,13 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong> <i class="ai ai-arxiv ai-fw fa-1.5x"></i></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
+    <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1.5x"></i> </a></p>
-    {% endif %}
+    {% endif %} -->
 
   </article>
 </div>
