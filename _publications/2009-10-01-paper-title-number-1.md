@@ -2,7 +2,7 @@
 title: "Axial perturbations of hairy black holes in generalised scalar-tensor theories"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'We study axial QNMs in scalar tensor theories with an emphasis on the effect of a scalar-Ricci coupling'
+excerpt: 'Gravitational wave observations can test the validity of General Relativity (GR) in the strong field regime. Certain classes of scalar-tensor theories indeed predict that compact objects can exhibit significant deviations from their GR counterparts. Here we explore the quasinormal modes of axial perturbations in spherically symmetric black holes in three such classes: (i) dilatonic black holes with an additional scalar-Ricci coupling (EdRGB), (ii) spontaneously scalarized black holes (EsRGB) with a quadratic coupling to the Gauss-Bonnet invariant and the Ricci scalar, (iii) spontaneously scalarized black holes with a quadratic and a quartic coupling to the Gauss-Bonnet invariant.'
 date: 2010-10-01
 venue: 'Journal 1'
 author_list: 'Georgios Antoniou'
