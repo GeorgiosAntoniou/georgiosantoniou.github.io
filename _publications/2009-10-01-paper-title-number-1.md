@@ -1,8 +1,8 @@
 ---
-title: "Axial perturbations of hairy black holes in generalised scalar-tensor theories ok"
+title: "Axial perturbations of hairy black holes in generalised scalar-tensor theories"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about '
+excerpt: 'We study axial QNMs in scalar tensor theories with an emphasis on the effect of a scalar-Ricci coupling'
 date: 2010-10-01
 venue: 'Journal 1'
 author_list: 'Georgios Antoniou'
