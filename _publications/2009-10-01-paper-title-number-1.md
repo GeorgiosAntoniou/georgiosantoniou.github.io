@@ -1,5 +1,5 @@
 ---
-title: "Axial perturbations of hairy black holes in generalised scalar-tensor theories"
+title: "Axial perturbations of hairy black holes in generalised scalar-tensor theories ok"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about '
