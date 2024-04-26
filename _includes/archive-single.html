@@ -55,8 +55,8 @@
           </p>
         {% endif %}
 
-        <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
 
+        <p><i>{{ post.authors }}</i></a></p>
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -73,6 +73,13 @@
     </p></p>
     {% endif %}
     
+    <!-- {% if post.citation and post.paperurl %}
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.citation %}
+      <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.paperurl %}
+      <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1x"></i> </a></p>
+    {% endif %} -->
 
   </article>
 </div>
