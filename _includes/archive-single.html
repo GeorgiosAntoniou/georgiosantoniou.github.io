@@ -55,20 +55,15 @@
           </p>
         {% endif %}
 
-        {% if post.citation and post.paperurl %}
         <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-      {% elsif post.citation %}
-        <p>Recommended citation: {{ post.citation }} </p>
-      {% elsif post.paperurl %}
-        <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1x"></i> </a></p>
-      {% endif %}
+
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.collection == 'publications' and post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink"> More</a></strong><br>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong><br>
       <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-1x"></i> </a>
       <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-1x"></i> </a>
     </p></p>
@@ -78,13 +73,6 @@
     </p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1x"></i> </a></p>
-    {% endif %}
 
   </article>
 </div>
