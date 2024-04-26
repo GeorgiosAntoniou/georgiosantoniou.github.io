@@ -51,8 +51,8 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong>
       <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong><br>
-      <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-2x"></i> </a>
-      <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-2x"></i> </a>
+      <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-1x"></i> </a>
+      <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-1x"></i> </a>
     </p></p>
     {% endif %}
     
@@ -61,7 +61,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1.5x"></i> </a></p>
+      <p> Find it on arXiv <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"> <i class="ai ai-arxiv ai-fw fa-1x"></i> </a></p>
     {% endif %} -->
 
   </article>
