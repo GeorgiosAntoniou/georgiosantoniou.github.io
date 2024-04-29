@@ -57,6 +57,9 @@
     </p></p>
     {% endif %}
 
+    <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-1.5x"></i> </a>
+    <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-1.5x"></i> </a>
+
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
   {% elsif post.collection == 'publications' %}
