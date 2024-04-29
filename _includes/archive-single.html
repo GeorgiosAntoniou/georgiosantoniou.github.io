@@ -50,15 +50,16 @@
     {% elsif post.collection == 'publications' and post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong>
       <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+      <br>
+      <br>
+      <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-1.5x"></i> </a>
+      <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-1.5x"></i> </a>
     </p></p>
     {% elsif post.collection == 'videos' and post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong>
       <a href="{{ base_path }}{{ post.url }}" rel="permalink"> </a></strong><br>
     </p></p>
     {% endif %}
-
-    <a href=" {{ post.paperurl }}" target="_blank" rel="noopener"><i class="ai ai-arxiv ai-fw fa-1.5x"></i> </a>
-    <a href=" {{ post.link1 }}" target="_blank" rel="noopener"> <i class="ai ai-inspire ai-fw fa-1.5x"></i> </a>
 
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
